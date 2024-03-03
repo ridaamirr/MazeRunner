@@ -26,10 +26,6 @@
 4. Use arrow keys to change direction and navigate the '*' character.
 5. Avoid hitting red cells and try to collect green cells to increase your score.
 
-## Example Gameplay
-
-![Gameplay](gameplay.gif)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
